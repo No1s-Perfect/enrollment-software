@@ -1,0 +1,15 @@
+.form{
+    display: flex;
+    height: 80vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-fetching{
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
